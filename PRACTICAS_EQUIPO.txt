@@ -4,7 +4,10 @@ Repositorios de practicas:
 - Practica 2 (los archivos de este repositorio fueron modificados para realizar la practica 3): https://github.com/Yuviaaa11/Practica2_BernalAguilar_MulatoRomero 
 
 - Practica 3 (Usamos dos repositorios para esta practica, en PRACTICA2 esta backend y frontend mientras que APIREST todo lo que conlleva a la conexión a la base de datos. En PRACTICA2 es necesario ejecutar npm run dev y en otra terminal, al mismo tiempo, APIREST se ejecuta con node index.js): https://github.com/Yuviaaa11/APIREST_Bernal__Mulato
+Nota: Ya existia la rama de Jazmin en APIREST solo que falto hacer el push, pero los cambios estan ahi.
 
 - Practica Final: https://github.com/kscaargl/FinalProject_E6
 
-Nota: Ya existia la rama de Jazmin en APIREST solo que falto hacer el push, pero los cambios estan ahi.
+- Aplicacion Vercel de la Practica Final: https://final-project-e6.vercel.app/
+
+
